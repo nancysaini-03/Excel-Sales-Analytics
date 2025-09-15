@@ -32,9 +32,8 @@ Users can slice the data using filters like Order Month, Payment Method, Product
 ## 🧠 Brainstorming Reflection 
 
    - Electronics is the most successful product category in terms of Revenue.
-   - North has the highest order cancellation rate.
-   - 11 orders were delivered fast, mainly in northern and southern regions.
-   - Improve delivery performance:
+   - November has highest sales probably due to wedding and festive bells.
+   - A significant number of orders are either cancelled or delivered late, highlighting the need to improve delivery performance for which following steps can be taken into consideration.
       - Analyze delays to find problem areas.
       - Speed up order processing with automation.
       - Use real-time tracking to catch issues early.
