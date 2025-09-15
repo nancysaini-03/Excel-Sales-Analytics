@@ -31,10 +31,10 @@ Users can slice the data using filters like Order Month, Payment Method, Product
 
 ## 🧠 Brainstorming Reflection 
 
-   - Electronis is the most successful product category in terms of revenue.
+   - Electronics is the most successful product category in terms of Revenue.
    - North has the highest order cancellation rate.
    - 11 orders were delivered fast, mainly in northern and southern regions.
-   - To improve delivery performance:
+   - Improve delivery performance:
       - Analyze delays to find problem areas.
       - Speed up order processing with automation.
       - Use real-time tracking to catch issues early.
